@@ -11,8 +11,7 @@ A clean and modern responsive landing page built using HTML, CSS, and JavaScript
 
 ## Demo
 
-Check out the live demo here: [Live Demo Link](https://your-live-demo-url.com)  
-*(Replace with your actual deployed URL if available)*
+Check out the live demo here: [Live Demo Link](https://)  
 
 ## Technologies Used
 
@@ -30,7 +29,6 @@ To run this project locally:
 2. Open index.html in your preferred browser
 
 Project Structure
-```bash
     responsive-landing-page/
     ├── index.html
     ├── css/
