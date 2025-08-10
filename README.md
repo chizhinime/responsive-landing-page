@@ -11,7 +11,7 @@ A clean and modern responsive landing page built using HTML, CSS, and JavaScript
 
 ## Demo
 
-Check out the live demo here: [Live Demo Link](https://)  
+Check out the live demo here: [Live Demo Link](https://afritech-landing-page.vercel.app/)  
 
 ## Technologies Used
 
@@ -28,7 +28,7 @@ To run this project locally:
    git clone https://github.com/chizhinime/responsive-landing-page.git
 2. Open index.html in your preferred browser
 
-Project Structure
+## Project Structure
     responsive-landing-page/
     ├── index.html
     ├── css/
@@ -38,7 +38,7 @@ Project Structure
     └── assets/
     └── images/
 
-##Contributing
+## Contributing
 
 Feel free to submit issues or pull requests if you want to improve the project!
 License
